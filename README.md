@@ -4,7 +4,7 @@ See https://github.com/yoshinorim/mha4mysql-manager/wiki for details.
 
 ### Note
 
-由于原项目已经有4年无人维护，在我司产品中使用过程中发现了一些问题，所以fork一份自行修改。
+由于原项目已经有4年无人维护，在使用过程中发现了一些问题，所以fork一份自行修改。
 
 ### Installation
 
